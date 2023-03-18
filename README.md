@@ -1,2 +1,1 @@
-# Project-Mecha
-samples of functions
+# Intro to Python
